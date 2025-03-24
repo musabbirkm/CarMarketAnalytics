@@ -162,7 +162,7 @@ For questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - **Name**: Muabbir Km  
 - **Email**: musabbirmushu@gmail.com 
-- **GitHub**: [musabbirkm](https://github.com/your-username)  
+- **GitHub**: [musabbirkm](https://github.com/musabbirkm)  
 - **LinkedIn**: [Musabbir Km](https://linkedin.com/in/MusabbirKm)
 
 
